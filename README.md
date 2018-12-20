@@ -4,6 +4,10 @@ This is a demo app to showcase the usage of the Wyre SDK on React Native.
 
 ## How to use 
 
+### Update your WyreSDK API key
+
+Edit the App.js file and update the apiKey value at line 34.
+
 ### Start Ganache
 
 The WyreSDK needs to communicate to a Web3 provider, for that purpose one can use the ganache-cli tool (https://github.com/trufflesuite/ganache-cli). Install ganache-cli and start as follow:

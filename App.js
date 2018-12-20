@@ -31,7 +31,7 @@ const html = `
         <script type="text/javascript">
             (function($) {
                 var handler = new Wyre({
-                        apiKey: "AK-CNLUZJLQ-B4MC4TTZ-3ZGHNT4N-UUGRE9EF",
+                        apiKey: "YOUR_WYRE_SDK_API_KEY",
                         env: "test",
                         onExit: function (error) {
                             if (error != null)
